@@ -1,0 +1,11 @@
+numpy>=1.18.0
+tensorflow>=2.4.0
+mithril==0.1.1
+gradio>=3.0.0
+matplotlib>=3.3.0
+pillow>=8.0.0
+# Optional backends (uncomment if needed)
+# jax>=0.2.0
+# jaxlib>=0.1.0
+# torch>=1.8.0
+# tensorflow-addons>=0.12.0 
