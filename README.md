@@ -30,25 +30,6 @@ Hi! This is my project for comparing different machine learning models on the MN
 - Python 3.8 or newer
 - The packages in `requirements.txt` (including Mithril)
 
-## How to Install
-
-1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/mithril-ml-models-comparison.git
-cd mithril-ml-models-comparison
-```
-
-2. Set up a virtual environment (it's better this way):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-```
-
-3. Install the packages:
-```bash
-pip install -r requirements.txt
-```
-
 ## How to Run
 
 Just run the main program:
